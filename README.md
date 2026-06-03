@@ -10,7 +10,7 @@
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/USERNAMEKAMU/auth-demo.git
+git clone https://github.com/saskiaalifah/auth-demo.git
 cd auth-demo
 ```
 
